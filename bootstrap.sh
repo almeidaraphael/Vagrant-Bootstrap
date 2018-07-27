@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-PROJECTNAME='gdp'
+PROJECTNAME='myProject'
 
 # create project folder
 sudo mkdir "/var/www/html/${PROJECTNAME}"
